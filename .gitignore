@@ -6,5 +6,5 @@ Reports/allure-report/*
 target/
 Screenshots/
 src/test/resources/request/*
-resources/response/*
-resources/schemas/*
+src/test/resources/response/*
+src/test/resources/schemas/*
