@@ -5,6 +5,6 @@ Reports/allure-report/*
 !Reports/allure-report/.gitkeep
 target/
 Screenshots/
-resources/request
-resources/response
-resources/schemas
+resources/request/*
+resources/response/*
+resources/schemas/*
