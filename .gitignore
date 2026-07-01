@@ -5,6 +5,3 @@ Reports/allure-report/*
 !Reports/allure-report/.gitkeep
 target/
 Screenshots/
-src/test/resources/request/*
-src/test/resources/response/*
-src/test/resources/schemas/*
