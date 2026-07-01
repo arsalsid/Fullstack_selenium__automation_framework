@@ -1,0 +1,10 @@
+# Keep Reports visible in IntelliJ; ignore generated Allure files only
+Reports/allure-results/*
+!Reports/allure-results/.gitkeep
+Reports/allure-report/*
+!Reports/allure-report/.gitkeep
+target/
+Screenshots/
+resources/request
+resources/response
+resources/schemas
